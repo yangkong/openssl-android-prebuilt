@@ -1,5 +1,7 @@
 # openssl-prebuilt
 
+*OpenSSL v1.0.2l*
+
 ## Usage
 
 ```
