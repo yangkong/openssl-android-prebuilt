@@ -1,4 +1,4 @@
-# openssl-prebuilt
+# openssl-android-prebuilt
 
 *OpenSSL v1.0.2l*
 
